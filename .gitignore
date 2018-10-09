@@ -33,3 +33,7 @@
 
 # CMake
 CMakeCache.txt
+cmake_install.cmake
+main
+runTests
+Makefile
